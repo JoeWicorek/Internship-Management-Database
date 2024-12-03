@@ -62,8 +62,6 @@ Candidate Preferences: Evaluate how preferences impact application outcomes.
 
 🚀 Getting Started
 Clone the repository:
-bash
-Copy code
 git clone https://github.com/your-username/internship-application-manager
 Load the SQL schema into your preferred database system.
 Run queries to explore trends and gain insights.
@@ -74,6 +72,9 @@ This tool aims to bridge the gap between candidates and employers by providing:
 A structured and transparent recruitment process.
 Actionable insights for improving job postings and candidate engagement.
 A better understanding of internship trends and opportunities.
+
+
 [Internship_Application_Manager_ERD (2).pdf](https://github.com/user-attachments/files/17891711/Internship_Application_Manager_ERD.2.pdf)
+
 
 [Internship_Application_Manager_Project_Proposal.pdf](https://github.com/user-attachments/files/17891712/Internship_Application_Manager_Project_Proposal.pdf)
