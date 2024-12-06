@@ -62,7 +62,7 @@ Candidate Preferences: Evaluate how preferences impact application outcomes.
 
 🚀 Getting Started
 Clone the repository:
-git clone https://github.com/JoeWicorek/internship-application-manager
+git clone https://github.com/JoeWicorek/internship-Management-Database
 Load the SQL schema into your preferred database system.
 Run queries to explore trends and gain insights.
 
